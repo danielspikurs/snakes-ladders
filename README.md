@@ -1,1 +1,1 @@
-# snakes-ladders
+### Simple snakes and ladders game
